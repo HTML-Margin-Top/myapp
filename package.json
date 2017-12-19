@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "antd": "^2.13.1",
+    "jsbarcode": "^3.8.0",
+    "qr-image": "^3.2.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "svgpath": "^2.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
