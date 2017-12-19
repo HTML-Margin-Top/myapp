@@ -1,0 +1,8 @@
+html :global{
+    font-size: 10px;
+}
+
+body :global{
+    background-color: #f0f0f0;
+    padding-bottom: 0.2rem;
+}
